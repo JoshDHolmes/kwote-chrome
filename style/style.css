@@ -1,0 +1,41 @@
+#container {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+} 
+
+body{
+    background-color: #ebebeb;
+}
+
+h1 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 900;
+    font-size: 45px;
+}
+
+#text p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30px;
+    text-align: right;
+    margin-right: 10%;
+    color: #0198E1;
+}
+
+#footer {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    position:fixed;
+	left:5%;
+	bottom:0.5%;
+}
+
+#footer a {
+    color: #0198E1;
+}
+
+#text{
+    margin-left: 15%;
+    margin-top: 10%;
+    margin-right: 5%;
+}
